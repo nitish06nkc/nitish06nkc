@@ -23,7 +23,8 @@ Interested in Cybersecurity, Cloud Computing & DevOps
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nitish06nkc&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=nitish06nkc&theme=dark&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&cache_seconds=86400)
+
 
 ---
 
