@@ -1,4 +1,4 @@
-# 👋 Nitish Kumar Chaudhary
+# Nitish Kumar Chaudhary
 
 ## 💫 About Me  
 B-Tech Computer Science Student  
