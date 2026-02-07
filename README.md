@@ -30,8 +30,8 @@ Interested in Cybersecurity, Cloud Computing & DevOps
 ---
 
 ### ✍️ Quote  
-> “Understanding systems is the first step to mastering them.”  
-— a tech enthusiast  
+> “Persistence creates greatness beyond what you ever imagined.”  
+— NKC
 
 ---
 
